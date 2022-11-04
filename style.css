@@ -1,0 +1,144 @@
+ .topnav {
+  overflow: hidden;
+  background-color: #333;
+  margin:0 auto;
+}
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: red;
+}
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+li{
+  padding: 0 30px;
+}
+body {
+  font: 20px Montserrat, sans-serif;
+  line-height: 1.8;
+  color: #f5f6f7;
+
+}
+.margin {margin-bottom: 45px;}  
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.visina{
+  height:450px;
+}
+.boja{
+	background:gray;
+	padding:40px;
+}
+#sekcija {
+  background-color: #dbe5e6;
+  padding: 30px;
+  margin:40px 0px;
+}
+#sekcija h1 {
+  font-weight: 900;
+  font-size: 64px;
+  padding-bottom: 5px;
+}
+.centar{text-align:center;}
+.title {
+  text-align: center;
+  padding: 25px 0px;
+}
+.title p {
+  font-size: 18px;
+}
+.card-body {
+  background:rgb(93, 204, 255); 
+}
+.card {
+  margin: 20px 10px;
+}
+ .card-body a {
+  color: red;
+  text-decoration: none;
+  font-size: 15px;
+  margin-top: auto;
+  font-weight: 600;
+}
+.card p{
+  font-size: 20px;
+  color: black;
+}
+.card:hover {
+  background:rgb(10,19,102);   
+  border-radius:5px;
+  border:none;
+  box-shadow:3px 3px 3px 8px #FF9900;
+}
+.pad_top{padding-top:20px}
+#okvir{
+  border-radius: 15px;
+  padding: 30px 25px;
+  margin-top: 15px;
+  background-color: #61a3b8;
+}
+.sediste{
+  border-radius: 3px;
+  padding: 5px;
+  margin: 10px 0px;
+}
+.zauzeto{
+  background-color: #ffabab;
+}
+.zauzeto:hover{
+  background-color: #fa4444;
+}
+.slobodno{
+  background-color: #a4f88d;
+}
+.slobodno:hover{
+  background-color: #74ff3d;
+}
+form{
+  padding: 40px 0px 0px 60px;
+  float: left;
+}
+#val_mail{
+		color:red;
+}
+#val_name{
+		color:red;
+}
+#val_broj{
+		color:red;
+}
+.rcorners1 {
+  border-radius: 25px;
+  padding: 20px; 
+  width: 300px;
+  height: 400px;
+  overflow:hidden;
+  font:arial;
+  margin: 30px 10px  ;
+}
+
+#rcorners1 p{font-size:18px;}
+input{
+  width: 200px;
+}
+.paragraf, p{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+h2,h1{
+  font-family: 'Times New Roman', Times, serif;
+}
+.primer{
+  list-style-type: none;
+}
